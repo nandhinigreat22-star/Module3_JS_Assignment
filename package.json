@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.65.0"
+  },
+  "name": "js_assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "orderPlacement.spec.js",
+  "dependencies": {
+    "playwright": "^1.65.0",
+    "playwright-core": "^1.65.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
